@@ -43,5 +43,5 @@ Este é um aplicativo mobile para gerenciar tarefas desenvolvido em **React Nati
 <img src="image/Login.jpeg" alt="Tela Inicial" width="300"/>
 
 ### Cadastro de Tarefa
-<img src="image/cadastro.jpeg" alt="Tela Inicial" width="300"/>
+<img src="image/Cadastro.jpeg" alt="cadastro" width="300"/>
 
